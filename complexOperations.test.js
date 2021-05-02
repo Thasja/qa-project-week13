@@ -1,4 +1,4 @@
-/*import 'jest';
+import 'jest';
 import * as complexOperations from './complexOperations';
 
 describe('complexOperation - Unit Tests', () => {
@@ -133,4 +133,4 @@ describe('complexOperation - Unit Tests', () => {
       expect(complexOperations.numberOfOddAndEvenNumbers([1,2,3,4,5,6,7,8,9])).toStrictEqual({odd: 5, even: 4});
     });
   });
-});*/
+});
